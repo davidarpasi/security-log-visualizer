@@ -4,7 +4,9 @@
 A practical log parser and plotter for analyzing brute-force patterns.
 
 ---
-!\[Failed Login Graph]\(output/failed-login-plot.png)
+
+![Failed Login Graph](output/failed-login-plot.png)
+
 ---
 
 ## Project Structure
